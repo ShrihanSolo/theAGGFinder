@@ -1,0 +1,5 @@
+# Only figures and the generated page belong in the public mirror.
+*.pkl
+*.fits
+*.npy
+.DS_Store
